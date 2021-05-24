@@ -26,6 +26,7 @@ public class Demo18Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Demo18Application.class, args);
+        System.out.println(100);
         System.out.println(999);
         SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
 //        String date = sdf.format(LocalDate.now().toString());
