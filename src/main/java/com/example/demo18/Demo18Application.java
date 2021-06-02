@@ -21,7 +21,7 @@ import java.util.Date;
 @SpringBootApplication
 //@ServerEndpoint("/websocket/{userName}")
 //@EnableWebSocketMessageBroker
-//@EnableWebSocket
+//@EnableWebSocket3
 public class Demo18Application {
 
     public static void main(String[] args) {
